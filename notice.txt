@@ -1,2 +1,5 @@
 【key】Nd8F7LfE4yhDY【key】
-【NoticeText】测试公告\n换行测试【NoticeText】
+【NoticeText】
+测试公告
+换行
+【NoticeText】
