@@ -8,6 +8,15 @@
             "img": "https://s1.ax1x.com/2022/04/16/LYgkmF.png",
             "description": "这个插件可以让你的网页变得鲜艳，可读性更强，可以有更好的浏览体验。",
             "link": "https://netlingsky.github.io/Qing-Browser/Plugins/1.js"
+        },
+        {
+            "num": "2",
+            "name": "网页性能检测",
+            "version": "1.0",
+            "author": "壹影",
+            "img": "https://s1.ax1x.com/2022/05/01/OCSmcV.jpg",
+            "description": "作者：壹影，该插件来自：https://bk.yyge.net/。 装载之后可以显示帧数、延迟等信息。",
+            "link": "https://netlingsky.github.io/Qing-Browser/Plugins/2.js"
         }
     ]
 }
